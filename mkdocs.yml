@@ -2,6 +2,9 @@ site_name: obsidian-mkdocs template
 
 theme:
     name: 'material'
+    features:
+      - navigation.tabs
+      - navigation.path
     palette:
 
     # Light mode

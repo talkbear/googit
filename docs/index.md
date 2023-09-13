@@ -1,4 +1,6 @@
 ---
+title: Googit
+template: home.html
 id: 2023-09-13_23:06:19
 type: Card
 tags: log pro media
@@ -8,17 +10,15 @@ next: [[]]
 pre: [[]]
 ---
 # Welcome to our Googit Archive community!
-**`=this.file.name`**
-??
-- [ ] Create git pages
-- [ ] Publish
+
+## TODOS
+- [x] Create git pages
+- [x] Publish
 - [ ] Custome it with exclusive domain obtained from Domain Provider[]
 - [ ] Aliaes for multingual support
-- [ ] 
+- [ ] Theme with [theme](https://bitsof.bytesofdesign.com/mkdocs-docskimmer/)
 ## Welcome
-
-
-
+![[sticker-wtd-colors.webp|80]]
 - [[Games]]
 - [[Notes]]
 
@@ -31,4 +31,5 @@ pre: [[]]
 list
 from [[]]
 ```
+
 ## Sources(Optional)
