@@ -1,11 +1,34 @@
-# Obsidian Notes
+---
+id: 2023-09-13_23:06:19
+type: Card
+tags: log pro media
+category: Professional
+parent: [[]]
+next: [[]]
+pre: [[]]
+---
+# Welcome to our Googit Archive community!
+**`=this.file.name`**
+??
+- [ ] Create git pages
+- [ ] Publish
+- [ ] Custome it with exclusive domain obtained from Domain Provider[]
+- [ ] Aliaes for multingual support
+- [ ] 
+## Welcome
 
-Publish your public notes with MkDocs
 
-## Hello World!
 
-The `index.md` in the `/docs` folder is the homepage you see here.
+- [[Games]]
+- [[Notes]]
 
-The folders in `/docs` appear as the main sections on the navigation bar.
+---
 
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+## Latest
+
+## Related
+```dataview
+list
+from [[]]
+```
+## Sources(Optional)
