@@ -2,6 +2,9 @@ site_name: Googit: Go observe games in text.
 
 theme:
     name: 'material'
+    features:
+      - navigation.tabs
+      - navigation.path
     palette:
 
     # Light mode
