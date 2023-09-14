@@ -10,7 +10,7 @@ next: [[]]
 pre: [[]]
 ---
 # Welcome to our Googit  community!
-<span class="float-left mr-2.5">![logo|164](./assets/googit-logo.jpeg)</span>
+<span class="float-left mr-2.5">![[googit-logo.jpeg|164]]</span>
 
 <span>
 
