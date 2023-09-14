@@ -1,4 +1,4 @@
-site_name: obsidian-mkdocs template
+site_name: Googit: Go observe games in text.
 
 theme:
     name: 'material'
@@ -52,7 +52,8 @@ plugins:
   - search
   - roamlinks 
 
-
+extra_css:
+  - styles/common.css
 extra_javascript:
   - javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
