@@ -1,4 +1,4 @@
-site_name: Googit: Go observe games in text.
+site_name: "Googit: Go observe games in text."
 
 theme:
     name: 'material'
