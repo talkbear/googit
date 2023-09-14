@@ -3,26 +3,26 @@ site_name: "Googit: Go observe games in text."
 theme:
     name: 'material'
     features:
-      - navigation.tabs
+      # - navigation.tabs
       - navigation.path
     palette:
 
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: pink
+      primary: brown
       accent: indigo
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/material/weather-sunny
         name: Switch to dark mode
 
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: pink
+      primary: brown
       accent: blue
       toggle:
-        icon: material/toggle-switch
+        icon: material/weather-night
         name: Switch to light mode
 
 # Extensions
@@ -53,7 +53,8 @@ markdown_extensions:
 
 plugins:
   - search
-  - roamlinks 
+  - roamlinks
+  - alias
 
 extra_css:
   - styles/common.css

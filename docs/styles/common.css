@@ -1,7 +1,15 @@
+:root {
+    --md-primary-fg-color:        #EE0F0F;
+    --md-primary-fg-color--light: #ECB7B7;
+    --md-primary-fg-color--dark:  #90030C;
+}
 /*
  * Common css for Googit.
  */
-
+body{
+    /* background-color: rgb(244,240,232); */
+    background-color: #FBF8F3;
+}
 .float-left{
     float:left;
 }
