@@ -10,17 +10,17 @@ next: [[]]
 pre: [[]]
 ---
 # Welcome to our Googit  community!
-<span class="float-left mr-2.5">![[googit-logo.jpeg|164]]</span>
+<span class="float-left mr-2.5">![logo|164](./assets/googit-logo.jpeg)</span>
 
 <span>
 
 [[Googit]] is an online community we build for those who wish to peek into games and to archive the UGC assets from the game as [[cultural resources]]  for academic and Non-academic utilization.
 </span>
 
-That is, we do play a role in identifying the academic value of games through materials created or edited by volunteer.
+That is, we do play a role in identifying the academic value of games through materials created or edited by volunteers.
 <p>
 
-<sub class="">Now we maintain [[Statics | 1,314]] cards in [[googit/docs/index|Googit]] and there are [[20]] active users. </sub><sub>Join us to create your own cards! [Github](https://en.wikipedia.org/wiki/GitHub) [repo](https://github.com/talkbear/googit) is being maintained and contribution guides goes [[Contribution Guide | here]].</sub>
+<sub class="">Now we maintain [[Statics | 1,314]] cards in [[googit/docs/index | Googit]] and there are [[20]] active users. </sub><sub>Join us to create your own cards! [Github](https://en.wikipedia.org/wiki/GitHub) [repo](https://github.com/talkbear/googit) is being maintained and contribution guides goes [[Contribution Guide | here]].</sub>
 
 </p>
 
