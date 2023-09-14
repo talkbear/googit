@@ -1,6 +1,6 @@
 ---
-title: Googit
-template: home.html
+# title: Googit
+# template: home.html
 id: 2023-09-13_23:06:19
 type: Card
 tags: log pro media
