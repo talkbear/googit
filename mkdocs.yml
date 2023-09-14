@@ -13,7 +13,7 @@ theme:
       primary: brown
       accent: indigo
       toggle:
-        icon: material/material/weather-sunny
+        icon: material/weather-sunny
         name: Switch to dark mode
 
     # Dark mode
