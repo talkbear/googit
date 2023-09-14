@@ -2,7 +2,7 @@
  * Common css for Googit.
  */
 
- .float-left{
+.float-left{
     float:left;
 }
 
@@ -35,4 +35,5 @@
 
 .mr-2\.5 {
     margin-right: 0.625rem; /* 10px */
+
 }
