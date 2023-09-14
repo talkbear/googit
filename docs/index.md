@@ -9,7 +9,7 @@ parent: [[]]
 next: [[]]
 pre: [[]]
 ---
-# Welcome to our Googit  community!
+# :simple-hellofresh: Welcome to our Googit  community!
 <span class="float-left mr-2.5">![[googit-logo.jpeg|164]]</span>
 
 <span>
