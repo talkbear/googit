@@ -3,6 +3,16 @@
     --md-primary-fg-color--light: #ECB7B7;
     --md-primary-fg-color--dark:  #90030C;
 }
+
+/* 
+ * Hotfix for some odd behavior while adding classes is not working
+ */
+
+ /* Fix the large icon bug in heaer  */
+body header .md-header__topic svg{
+    width: 18px;
+}
+
 /*
  * Common css for Googit.
  */
