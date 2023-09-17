@@ -37,7 +37,7 @@ Also we do play a role in identifying the academic value of games through materi
 - 🎮 Explore the [[Games]].
 - ✏️ Read the [[Notes]].
 
-<aside>
+
 🎯  Since you're new here, check these simple tasks you may want to go through for better understanding of us. Just consider it as the quests in the game.
 
 - 👉 Begin with go through cards on complex concept with the [[Example root card]].
@@ -48,7 +48,6 @@ Also we do play a role in identifying the academic value of games through materi
 - 🇺🇸 [[#simple-hellofresh Welcome to our Googit community! | English Version]]
 - 🇯🇵 [[日本語版]]
 - 🇨🇳  [[中文简体版]]
-<aside>
 
 <sub>Interested on our [[Career]] or ready to contribution to this community, read the [[Basis]] part before move to the [[Guides]] or take a brief look of our over [[about the googit comminity | About]] page.<sub>
 
