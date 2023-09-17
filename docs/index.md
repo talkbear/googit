@@ -12,7 +12,7 @@ next:
 pre:
   - []
 ---
-# :simple-hellofresh: Welcome to the Googit  community! (_α_ version)
+# :simple-hellofresh: Welcome to Googit! (α version)
 <span class="float-left mr-2.5">![[googit-logo.jpeg|164]]</span>
 
 <span>
@@ -23,33 +23,32 @@ For that we begin with taking games apart into pieces that is describable with [
 </span>
 
 Also we do play a role in identifying the academic value of games through materials created or edited by volunteer authors.
-<p>
 
-<sub class="">Now we maintain [[Statistics | 36]] cards in here and there are [[Statistics Users | 1 ]] active users[^1]. </sub>
-
-<sub>Join us to create your own cards! The [github](https://en.wikipedia.org/wiki/GitHub) [repo](https://github.com/talkbear/googit) is being maintained and potential contributor may refer to guides goes [[Contribution Guide | here]].</sub>
-
-</p>
+<sub class="">Now we maintain [[Statistics | 36]] cards in here and there are [[Statistics Users | 1 ]] active users[^1]. Join us to create your own cards! The [github](https://en.wikipedia.org/wiki/GitHub) [repo](https://github.com/talkbear/googit) is being maintained and potential contributor may refer to guides goes [[Contribution Guide | here]].</sub>
 
 ---
 
 ## Get Started
 
-🎯  Since you're new here, there are simple tasks as you may go through as beginning. Just consider it as the quests in the game.
 
-- 👉  Read our standard [[example cards]].
-- 👉  Go through all documents on a [[Basis | example topic]].
-- 👉  Try search one card or theme through search box on top corner of right.
 
 🏠   Make your self comfortable here.
+
 - 🎮 Explore the [[Games]].
-- ✏️  Explore the [[Notes]].
+- ✏️ Read the [[Notes]].
+
+<aside>
+🎯  Since you're new here, check these simple tasks you may want to go through for better understanding of us. Just consider it as the quests in the game.
+
+- 👉 Begin with go through cards on complex concept with the [[Example root card]].
+- 👉 Try search one card or theme through search box on top corner of right.
 
 🌐 Languages
 
 - 🇺🇸 [[#simple-hellofresh Welcome to our Googit community! | English Version]]
 - 🇯🇵 [[日本語版]]
 - 🇨🇳  [[中文简体版]]
+<aside>
 
 <sub>Interested on our [[Career]] or ready to contribution to this community, read the [[Basis]] part before move to the [[Guides]] or take a brief look of our over [[about the googit comminity | About]] page.<sub>
 
