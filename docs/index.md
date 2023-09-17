@@ -49,7 +49,7 @@ Also we do play a role in identifying the academic value of games through materi
 
 :obs_languages: Languages
 
-- 🇺🇸  [[#simple-hellofresh Welcome to our Googit community! | English Version]]
+- 🇺🇸 [[#simple-hellofresh Welcome to our Googit community! | English Version]]
 - 🇯🇵 [[日本語版]]
 - 🇨🇳  [[中文简体版]]
 
@@ -61,6 +61,7 @@ Also we do play a role in identifying the academic value of games through materi
 ## References
 
 1. [Explanatory Notes](https://en.wikipedia.org/wiki/Help:Explanatory_notes)
+2. [Markdown Guide#Terms and Conditions](https://www.markdownguide.org/terms-and-conditions)
 
 
 ## Notes [^2]

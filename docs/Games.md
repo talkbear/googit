@@ -5,7 +5,6 @@ tags: googit card
 category: none
 authrized: false
 language: en
-icon: none
 parent: [[]]
 next: [[]]
 pre: [[]]
