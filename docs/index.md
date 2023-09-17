@@ -25,10 +25,9 @@ For that we begin with taking games apart into pieces that is describable with [
 Also we do play a role in identifying the academic value of games through materials created or edited by volunteer authors.
 <p>
 
-%%`$= dv.pages('"' + dv.current().file.folder + '"').length`%%
-
 <sub class="">Now we maintain [[Statistics | 36]] cards in here and there are [[Statistics Users | 1 ]] active users[^1]. </sub>
-<sub>Join us to create your own cards! The [github](https://en.wikipedia.org/wiki/GitHub) [repo](https://github.com/talkbear/googit) is being maintained and potential contributor may refer to guides goes [[Contribution Guide | here]].</sub> ^819888
+
+<sub>Join us to create your own cards! The [github](https://en.wikipedia.org/wiki/GitHub) [repo](https://github.com/talkbear/googit) is being maintained and potential contributor may refer to guides goes [[Contribution Guide | here]].</sub>
 
 </p>
 
@@ -36,18 +35,17 @@ Also we do play a role in identifying the academic value of games through materi
 
 ## Get Started
 
-:fas_tasks:  Since you're new here, there are simple tasks as you may go through as beginning. Just consider it as the quests in the game.
+🎯  Since you're new here, there are simple tasks as you may go through as beginning. Just consider it as the quests in the game.
 
-- :fas_directions:  Read our standard [[example cards]].
-- :fas_directions:  Go through all documents on a [[Basis | example topic]].
-- :fas_directions:  Try search one card or theme through search box on top corner of right.
+- 👉  Read our standard [[example cards]].
+- 👉  Go through all documents on a [[Basis | example topic]].
+- 👉  Try search one card or theme through search box on top corner of right.
 
-:fas_home:   Make your self comfortable here.
+🏠   Make your self comfortable here.
+- 🎮 Explore the [[Games]].
+- ✏️  Explore the [[Notes]].
 
-- :video_game: Explore the [[Games]].
-- :fas_feather_alt: :  Explore the [[Notes]].
-
-:obs_languages: Languages
+🌐 Languages
 
 - 🇺🇸 [[#simple-hellofresh Welcome to our Googit community! | English Version]]
 - 🇯🇵 [[日本語版]]
