@@ -1,0 +1,60 @@
+/*
+ * Common css for Googit.
+ */
+
+:root {
+    --md-primary-fg-color:        #EE0F0F;
+    --md-primary-fg-color--light: #ECB7B7;
+    --md-primary-fg-color--dark:  #90030C;
+}
+
+/* 
+ * Hotfix for some odd behavior while adding classes is not working
+ */
+
+ /* Fix the large icon bug in heaer  */
+body header .md-header__topic svg{
+    width: 18px;
+}
+
+/*
+ * Common css for Googit.
+ */
+body{
+    /* background-color: rgb(244,240,232); */
+    background-color: #FBF8F3;
+}
+.float-left{
+    float:left;
+}
+
+.float-right{
+    float:right;
+}
+
+.h-space-between{
+  display: flex;
+  justify-content: space-between;
+}
+
+.v-space-between{
+   display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+.m-0{
+    margin: 0px;
+}
+.mr-1{
+    margin-right: 0.25rem;
+}
+.m-0\.5{
+    margin: 0.125rem;
+}
+.m-1{
+    margin: 0.25rem;
+}
+
+.mr-2\.5 {
+    margin-right: 0.625rem; /* 10px */
+}
