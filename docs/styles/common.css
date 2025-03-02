@@ -2,7 +2,29 @@
  * Common css for Googit.
  */
 
- .float-left{
+:root {
+    --md-primary-fg-color:        #EE0F0F;
+    --md-primary-fg-color--light: #ECB7B7;
+    --md-primary-fg-color--dark:  #90030C;
+}
+
+/* 
+ * Hotfix for some odd behavior while adding classes is not working
+ */
+
+ /* Fix the large icon bug in heaer  */
+body header .md-header__topic svg{
+    width: 18px;
+}
+
+/*
+ * Common css for Googit.
+ */
+body{
+    /* background-color: rgb(244,240,232); */
+    background-color: #FBF8F3;
+}
+.float-left{
     float:left;
 }
 

@@ -1,0 +1,2 @@
+- 『[Game Localization: Translating for the Global Digital Entertainment Industry](https://www.amazon.co.jp/-/en/Minako-OHagan/dp/9027224579)
+- [# 本地化博士生经验分享丨游戏科研和打游戏，还真不是一回事儿]https://www.gcores.com/articles/147848
